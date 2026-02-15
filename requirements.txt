@@ -1,0 +1,5 @@
+Library yang digunakan dalam proses analisis data:
+pandas
+matplotlib
+seaborn
+streamlit
